@@ -1,0 +1,59 @@
+ul
+{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin-top: -57px;
+    margin-right: -180px;
+}
+
+li
+{
+    font-size: 18px;
+    margin-top: -70px;
+    margin: 14px;
+    color: #013220;
+
+}
+.logo> img
+{
+    width: 250px;
+    height: 60px;
+    margin-left: 145px;
+}
+#touch
+{
+    margin-left: 70px;
+    border: 1px solid #013220;
+    border-radius: 8px !important;
+    padding: 12px 28px;
+    margin-top: 1px;
+}
+.description
+{
+    color: #013220;
+    text-align: center;
+}
+button
+{
+background-color: #013220;
+width: 130px;
+height: 50px;
+border-radius: 12px;
+}
+button, a
+{
+color: #d7dcda;
+}
+h1
+{
+font-size: 36px;
+}
+img
+{
+    width: 920px;
+    height: 486px;
+    margin-left: 250px;
+}
+
+
